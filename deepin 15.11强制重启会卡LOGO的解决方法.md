@@ -6,9 +6,7 @@
 
 ## 背景
 
-deepin 15.11重启后卡在logo上了，无法进入登录界面，按Ctrl+alt+F1之后能看见以下lightdm启动失败警告：
-
-![在deepin 15.10.1桌面中会卡死，然后强制重启会卡LOGO的解决方法](https://ywnz.com/uploads/allimg/19/1-1Z613215G63R.JPG)
+deepin 15.11重启后卡在logo上了，无法进入登录界面，按Ctrl+alt+F1之后能看见以下lightdm启动失败警告。
 
 找网上的解决方法基本都是针对N卡显卡问题的卡logo，对于这个错误`根本没用`。
 
